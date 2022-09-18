@@ -1,7 +1,7 @@
 .container {
   display: flex;
-  /* justify-content: center; */
 justify-content: center;
+background-color: bisque;
 }
 .list {
    margin-top: 10px;
